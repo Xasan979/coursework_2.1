@@ -6,12 +6,12 @@
 
 Создайте venv и установите требования
 
-   Mac OS
+      Mac OS
       python3 -m venv env
       source env/bin/activate - for Unix or MacOS
       pip install -r requirements
 
-    Windows
+      Windows
       py -m venv env
       .\env\Scripts\activate
       py -m pip install -r requirements.txt
