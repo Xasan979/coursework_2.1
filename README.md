@@ -1,9 +1,8 @@
 # coursework_2.1
 
 Игра в слова.
+
 Ссылка на задание: https://disk.yandex.ru/i/2D947vxSyoIP2A
-
-
 
 Как запустить:
 
